@@ -1,2 +1,4 @@
 Hello, this is my first Git project!
 I just updated it with a second line.
+I just updated it with a second line.
+
